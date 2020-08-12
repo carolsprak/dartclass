@@ -1,1 +1,1 @@
-Início do projeto Dart.
+InÃ­cio do projeto em Dart.
